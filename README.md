@@ -53,8 +53,3 @@ root@me_dheeraj:$ bash 403-bypass.sh -u https://target.com/secret --exploit
 ##### Prerequisites
 - apt install curl [Debian]
 
-## Support
-If you like `4-ZERO-3` and it help you in work, money/bounty, pentesting, recon or just brings you happy feelings, please show your support ! 
-:stop_sign:   **Please avoid opening GitHub issues for support requests or questions!**
-buy me a beer to keep me powered :)
-
