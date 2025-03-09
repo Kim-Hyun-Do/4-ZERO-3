@@ -53,3 +53,6 @@ root@me_dheeraj:$ bash 403-bypass.sh -u https://target.com/secret --exploit
 ##### Prerequisites
 - apt install curl [Debian]
 
+### Update by r0b0ts
+Add auto_bypasser.py for targeting multiple urls.
+![auto_bypasser result](https://github.com/user-attachments/assets/010d101e-b337-4878-b213-3dc150c936fa)
