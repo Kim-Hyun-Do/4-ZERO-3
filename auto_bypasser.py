@@ -44,8 +44,3 @@ if endpoints:
         run_shell(endpoint)
 else:
     print("[-] Empty endpoints")
-
-
-
-
-##./403-bypass.sh -u https://af-adcontent.apply.ctrl.finn.no --exploit
