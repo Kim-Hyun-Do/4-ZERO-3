@@ -1,6 +1,10 @@
 [![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)
 ![Follow on Twitter](https://img.shields.io/twitter/follow/Dheerajmadhukar?style=social)
 
+### Update by r0b0ts
+Add auto_bypasser.py for targeting multiple urls.
+![auto_bypasser result](https://github.com/user-attachments/assets/010d101e-b337-4878-b213-3dc150c936fa)
+
 ### >_ Introduction
 
 **4-ZERO-3**
@@ -52,7 +56,3 @@ root@me_dheeraj:$ bash 403-bypass.sh -u https://target.com/secret --exploit
 
 ##### Prerequisites
 - apt install curl [Debian]
-
-### Update by r0b0ts
-Add auto_bypasser.py for targeting multiple urls.
-![auto_bypasser result](https://github.com/user-attachments/assets/010d101e-b337-4878-b213-3dc150c936fa)
